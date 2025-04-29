@@ -1,7 +1,7 @@
 # <div align="center">👋 Hi, I'm Kopal Bhatnagar</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6AD3F7&center=true&vCenter=true&width=435&lines=Data+Engineer;AI+Enthusiast;MLOps+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6AD3F7&center=true&vCenter=true&width=435&lines=Data+Engineer;AI+Enthusiast;ML" alt="Typing SVG" />
 </div>
 
 <div align="center">
