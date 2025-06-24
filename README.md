@@ -10,7 +10,7 @@
 
 ## 🧠 About Me
 
-- 🚀 Data and BI Engineer with 3+ years of experience driving **AI adoption**, **MLOps automation**, and **cloud cost optimization** at John Deere
+- 🚀 Data and BI Engineer with 3+ years of experience driving **AI adoption** and **cloud cost optimization** at John Deere
 - 📚 Currently pursuing **MS in Business Analytics** at **UC Davis**, specializing in **Machine Learning, NLP, and LLMs**
 - 🛠️ Passionate about building scalable data systems and real-world AI solutions
 - 🏆 Winner of the **Vanguard Award** at AggieHacks'25 for designing a **Crisis Intelligence System**
